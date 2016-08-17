@@ -17,7 +17,7 @@ This is a collection of some relevant UX / UI projects I've worked on that are e
 -- I designed the whole concept idea and I was responsible for all aspects of the development for this responsive website 
 -- Full 3-breakpoints responsive design / coding / integration with Wordpress CMS / tripadvisor API integration
 
-- **[jamondemaria.com](http://www.jamondemaria.com** - eCommerce website for a luxury brand of Iberico Ham products, gifts and special packs
+- **[jamondemaria.com](http://www.jamondemaria.com)** - eCommerce website for a luxury brand of Iberico Ham products, gifts and special packs
 -- Full design, Magento theme adaptation, development of custom plugins and functionality, copywriting for the blog
 
 - **[costasur.com](http://www.costasur.com/)** - Spanish travel services booking website specialised in the south of Spain
@@ -29,13 +29,13 @@ This is a collection of some relevant UX / UI projects I've worked on that are e
 - Collaboration on analysis / concepts / redesign of the whole cross-channel responsive platform for 2015 relaunch of multibrand gambling websites managed by Bodog Gaming (USA top 3 gambling provider). Lead UI implementation of the project (excluding sports components / poker UI)
 - Some examples of brand sites using the platform:
 
-**[bodog](https://www.bodog.eu/)**
+-**[bodog](https://www.bodog.eu/)**
 
-**[bovada](https://www.bovada.lv/)**
+-**[bovada](https://www.bovada.lv/)**
 
-**[slots](https://www.slots.lv/)**
+-**[slots](https://www.slots.lv/)**
 
-**[ignition casino](https://www.ignitioncasino.eu/)**
+-**[ignition casino](https://www.ignitioncasino.eu/)**
 
 ---
 
