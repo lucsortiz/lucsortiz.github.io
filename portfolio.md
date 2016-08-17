@@ -29,13 +29,13 @@ This is a collection of some relevant UX / UI projects I've worked on that are e
 - Collaboration on analysis / concepts / redesign of the whole cross-channel responsive platform for 2015 relaunch of multibrand gambling websites managed by Bodog Gaming (USA top 3 gambling provider). Lead UI implementation of the project (excluding sports components / poker UI)
 - Some examples of brand sites using the platform:
 
--**[bodog](https://www.bodog.eu/)**
+- **[bodog](https://www.bodog.eu/)**
 
--**[bovada](https://www.bovada.lv/)**
+- **[bovada](https://www.bovada.lv/)**
 
--**[slots](https://www.slots.lv/)**
+- **[slots](https://www.slots.lv/)**
 
--**[ignition casino](https://www.ignitioncasino.eu/)**
+- **[ignition casino](https://www.ignitioncasino.eu/)**
 
 ---
 
