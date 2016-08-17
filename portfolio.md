@@ -23,13 +23,17 @@ This is a collection of some relevant UX / UI projects I've worked on that are e
 - **[costasur.com](http://www.costasur.com/)** - Spanish travel services booking website specialised in the south of Spain
 -- Collaboration on full responsive site redesign based on market study. Development of components for the website and theme under Bootstrap framework 
 
+---
+
 ### The Workshop (Bodog)
 - Collaboration on analysis / concepts / redesign of the whole cross-channel responsive platform for 2015 relaunch of multibrand gambling websites managed by Bodog Gaming (USA top 3 gambling provider). Lead UI implementation of the project (excluding sports components / poker UI)
 - Some examples of brand sites using the platform:
-- **[bodog](https://www.bodog.eu/)**
-- **[bovada](https://www.bovada.lv/)**
-- **[slots](https://www.slots.lv/)**
-- **[ignition casino](https://www.ignitioncasino.eu/)**
+**[bodog](https://www.bodog.eu/)**
+**[bovada](https://www.bovada.lv/)**
+**[slots](https://www.slots.lv/)**
+**[ignition casino](https://www.ignitioncasino.eu/)**
+
+---
 
 ### Pokerstars (Betstars)
 - **[Betstars](https://www.betstars.uk/)** - UI design and development for the new sports betting platform by Pokerstars. Branding and custom redesign of a third party provided betting platform. Continuous development of new functionality, sections and UX improvements based on user testing feedback. A/B testing for both website and promotions, analytics tracking and report integration
