@@ -17,7 +17,7 @@ This is a collection of some relevant UX / UI projects I've worked on that are e
 -- I designed the whole concept idea and I was responsible for all aspects of the development for this responsive website 
 -- Full 3-breakpoints responsive design / coding / integration with Wordpress CMS / tripadvisor API integration
 
-- **[jamondemaria.com/](http://www.jamondemaria.com/demaria-seleccion?dma_tipojamon=128)** - eCommerce website for a luxury brand of Iberico Ham products, gifts and special packs
+- **[jamondemaria.com](http://www.jamondemaria.com** - eCommerce website for a luxury brand of Iberico Ham products, gifts and special packs
 -- Full design, Magento theme adaptation, development of custom plugins and functionality, copywriting for the blog
 
 - **[costasur.com](http://www.costasur.com/)** - Spanish travel services booking website specialised in the south of Spain
